@@ -3,6 +3,4 @@ pandas
 numpy
 matplotlib
 seaborn
-ast
-traceback
 requests
